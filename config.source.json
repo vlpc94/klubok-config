@@ -1,0 +1,9 @@
+{
+  "seq": 1,
+  "backends": [
+    "https://klubok-api.hiperrio.com"
+  ],
+  "config_urls": [
+    "https://vlpc94.github.io/klubok-config/config.json"
+  ]
+}
